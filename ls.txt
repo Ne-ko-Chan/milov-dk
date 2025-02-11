@@ -1,0 +1,9 @@
+total 28K
+drwxr-xr-x 3 nekochan nekochan 4,0K фев 11 13:33 ./
+drwxr-xr-x 5 nekochan nekochan 4,0K фев 11 13:16 ../
+-rw-r--r-- 1 nekochan nekochan  702 фев 11 13:31 config.txt
+-rw-r--r-- 1 nekochan nekochan  174 фев 11 13:18 first.txt
+drwxr-xr-x 7 nekochan nekochan 4,0K фев 11 13:33 .git/
+-rw-r--r-- 1 nekochan nekochan    0 фев 11 13:33 ls.txt
+-rw-r--r-- 1 nekochan nekochan   45 фев 11 13:16 README.md
+-rw-r--r-- 1 nekochan nekochan  199 фев 11 13:18 status.txt

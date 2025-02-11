@@ -1,0 +1,1 @@
+Linux laptop 6.13.1-arch1-1 #1 SMP PREEMPT_DYNAMIC Sun, 02 Feb 2025 01:02:29 +0000 x86_64 GNU/Linux
